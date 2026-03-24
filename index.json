@@ -3156,7 +3156,7 @@
     {
       "name": "ds1-solaire",
       "display_name": "Dark Souls – Solaire of Astora",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "A sound pack for true warriors of sunlight.",
       "author": {
         "name": "jmfiebak",
@@ -3177,17 +3177,17 @@
       "language": "en",
       "license": "MIT",
       "sound_count": 41,
-      "total_size_bytes": 2079827,
+      "total_size_bytes": 2079824,
       "source_repo": "jmfiebak/openpeon-solaire-sound-pack",
-      "source_ref": "v1.0.1",
+      "source_ref": "v1.0.2",
       "source_path": ".",
-      "manifest_sha256": "4d02aa737decca0253f18deeba3192a5debeb6635d704c5ac76d4d8547a85e24",
+      "manifest_sha256": "f2dc189cbe90a3a02731baab8bca1150b4a4e5e4009211bbec99c9c45c1df5db",
       "tags": [
         "gaming",
         "dark souls",
-        "ds",
+        "fantasy",
         "solaire",
-        "character"
+        "knight"
       ],
       "preview_sounds": [
         "SolaireChoiceIsYours.mp3",
