@@ -6044,6 +6044,46 @@
       "updated": "2026-03-03"
     },
     {
+      "name": "paulistano-quebrada",
+      "display_name": "Paulistano de Quebrada",
+      "version": "1.0.0",
+      "description": "Paulistano de Quebrada sound pack from Brazil",
+      "author": {
+        "name": "Rafa Leo",
+        "github": "rafaelleonardocruz"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit"
+      ],
+      "language": "pt-BR",
+      "license": "MIT",
+      "sound_count": 24,
+      "total_size_bytes": 1511037,
+      "source_repo": "rafaleo-dev/openpeon-paulistano-quebrada-pt-br",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "1e1ae23a2a323757a41bc9eec4136c19b55dc26beddef834a8835244e179f761",
+      "tags": [
+        "humor",
+        "brazil",
+        "portuguese",
+        "slang"
+      ],
+      "preview_sounds": [
+        "greetings1.mp3",
+        "done4.mp3",
+        "erro3.mp3"
+      ],
+      "added": "2026-03-31",
+      "updated": "2026-03-31"
+    },
+    {
       "name": "peasant",
       "display_name": "Human Peasant",
       "version": "1.0.0",
