@@ -9471,7 +9471,7 @@
     {
       "name": "stronghold-peasant-es",
       "display_name": "Stronghold Peasant (ES)",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Spanish peasant voice lines from Stronghold HD (Firefly Studios) — medieval worker responding to your commands",
       "author": {
         "name": "Matias Saggiorato",
@@ -9492,9 +9492,9 @@
       "sound_count": 30,
       "total_size_bytes": 1633566,
       "source_repo": "msaggiorato/peon-stronghold-es",
-      "source_ref": "v1.0.0",
+      "source_ref": "v1.0.1",
       "source_path": ".",
-      "manifest_sha256": "4cdbe63b1e4a595ddeb9902e1665b64ae50a33fbb1a278db612e53e540dbb158",
+      "manifest_sha256": "d96bf731575bf3b37498fa8a08a39baaf0cbd45a61999d5543e02b74cfb56c15",
       "tags": [
         "gaming",
         "stronghold",
