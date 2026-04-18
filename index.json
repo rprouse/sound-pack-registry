@@ -12284,9 +12284,9 @@
     },
     {
       "name": "zugzug",
-      "display_name": "Zug Zug",
+      "display_name": "Orcs (Warcraft II)",
       "version": "1.1.0",
-      "description": "A sound pack inspired by Warcraft peon responses",
+      "description": "A sound pack inspired by Warcraft Orc responses",
       "author": {
         "name": "dmurai",
         "github": "dmurai"
