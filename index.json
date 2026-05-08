@@ -11698,6 +11698,42 @@
       "updated": "2026-03-12"
     },
     {
+      "name": "tywin-lannister",
+      "display_name": "Tywin Lannister",
+      "version": "1.0.3",
+      "description": "Sound pack featuring Tywin Lannister, Lord of Casterly Rock and Hand of the King.",
+      "author": {
+        "name": "dmltdev",
+        "github": "dmltdev"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "session.start",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 20,
+      "total_size_bytes": 1708830,
+      "source_repo": "dmltdev/openpeon-tywin-lannister",
+      "source_ref": "v1.0.3",
+      "source_path": ".",
+      "manifest_sha256": "d616ba4d2e7a2308def5c6e54af9f294e5ac4afafe9646e871c4c6cf135eb502",
+      "tags": [
+        "gaming",
+        "game-of-thrones",
+        "tv"
+      ],
+      "preview_sounds": [
+        "any-man-who-must-say-i-am-the-king-is-no-true-king.mp3",
+        "try-harder.mp3"
+      ],
+      "added": "2026-05-09",
+      "updated": "2026-05-09"
+    },
+    {
       "name": "vendetta",
       "display_name": "Overwatch - Vendetta",
       "version": "1.0.0",
